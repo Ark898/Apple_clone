@@ -1,0 +1,190 @@
+*{
+ padding: 0px;   
+ margin:0px;
+ box-sizing: border-box;
+}
+#headerr{
+    height: 50px;
+    background-color: rgba(22, 22, 23, .8);
+    text-decoration: none;
+    display:flex;
+    justify-content: space-around;
+    text-align:center;
+    align-items: center;
+    position:sticky;
+    box-sizing:border-box;
+    top:0px;
+    float:none;
+    
+}
+
+#Store #Mac {
+    
+    color:white;
+    visibility:visible;
+    padding-block-start: 0%;
+    text-decoration: none;
+}
+
+#shopnow{
+    display:flex;
+    justify-content: center;
+    height: 45px;
+    text-align:center;
+    align-items: center;
+    color:grey;
+}
+.s{
+    color:rgb(6, 182, 247);
+}
+.container .box1{
+    /* position:absolute; */
+    width:1532px;
+    height:1021px;
+    background-image: url("Macbook3_dpple.jpg");
+    background-size:cover;
+    border-radius: 15px;
+}
+#info1{
+    font-size:50px;
+}
+.container .box2{
+    display:inline-block;
+    /* position:relative; */
+    width:766px;
+    height:1021px;
+    background-image: url("iphone14_dpple.jpg");
+    background-size:cover;
+    border-radius: 15px;
+}
+/* #info2{
+    font-size:40px;
+    color:white;
+    
+    
+} */
+.container .box3{
+    display:inline-block;
+    /* position:relative; */
+    width:766px;
+    height:1021px;
+    background-image: url("iphone_dpple.jpg");
+    background-size:cover;
+    border-radius: 15px;
+}
+
+.container .box4{
+    display:inline-block;
+    /* position:relative; */
+    width:766px;
+    height:1021px;
+    background-image: url("airpods.jpg");
+    background-size:cover;
+    border-radius: 15px;
+}
+.container .box5{
+    display:inline-block;
+    /* position:relative; */
+    width:766px;
+    height:1021px;
+    background-image: url("watch.jpg");
+    background-size:cover;
+    border-radius: 15px;
+}
+
+/* .container .box6{
+    display:inline-block;
+    position:relative;
+    width:766px;
+    height:1021px;
+    background-image: url("Adaptor.jpg");
+    background-size:cover;
+} */
+
+.container .box7{
+    display:inline-block;
+    /* position:relative; */
+    width:1532px;
+    height: 1021px;
+    background-image: url("ipad.jpg");
+    background-size:cover;
+    border-radius: 15px;
+}
+
+.video{
+    border-radius: 40px;
+}
+
+
+footer{
+    position:bottom;
+    /* color:grey; */
+}
+#info{
+    margin-left:300px ;
+    margin-right:300px ;
+    color:grey;
+}
+#applewallet #shopandlearn{
+    color:black;
+    margin-left:300px ;
+    margin-right:300px ;
+}
+
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    
+}
+.b{
+    color:rgb(6, 182, 247);
+}
+#copyright{
+    color:black;
+    display:flex;
+    justify-content: space-around;
+    text-align:center;
+    align-items: center;
+    
+}
+
+#store {
+    color:aliceblue;
+}
+
+#Mac {
+    color:aliceblue;
+}
+
+#iPad {
+    color:aliceblue;
+}
+
+#iPhone {
+    color:aliceblue;
+}
+
+#Watch {
+    color:aliceblue;
+}
+
+#Airpods{
+    color:aliceblue;
+}
+
+#TVHome {
+    color:aliceblue;
+}
+
+#Entertainment {
+    color:aliceblue;
+}
+
+#Accessories {
+    color:aliceblue;
+}
+
+#Support {
+    color:aliceblue;
+}
+
