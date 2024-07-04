@@ -3,8 +3,9 @@
 This project is a clone of the front page of the Apple website, created using HTML and CSS. The goal of this project is to practice and demonstrate skills in web development and design by recreating a well-known and visually appealing website.
 
 ## Demo
+![Screenshot (218)](https://github.com/Ark898/Apple_clone/assets/137332440/048e7835-0bd0-42f4-a9f9-d9018ebe7fee)
 
-You can view a live demo of the project [here]().
+You can view a live demo of the project [here](https://ark898.github.io/Apple_clone/).
 
 
 ## Installation
