@@ -4,9 +4,7 @@ This project is a clone of the front page of the Apple website, created using HT
 
 ## Demo
 
-![Screenshot of the Apple Website Clone](path/to/screenshot.png)
-
-You can view a live demo of the project [here](https://your-username.github.io/apple-website-clone/).
+You can view a live demo of the project [here]().
 
 
 ## Installation
